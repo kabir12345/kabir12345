@@ -1,4 +1,4 @@
-### Hi there 👋
+
 # Hello, there! 👋
 
 I'm Kabir Jaiswal, a Master's student in Computer Engineering at New York University (NYU) 🎓. I'm passionate about machine learning, artificial intelligence, and software development. 
