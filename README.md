@@ -1,8 +1,8 @@
 
 # Hello, there! 👋
 
-I'm Kabir Jaiswal, a Master's student in Computer Engineering at New York University (NYU) 🎓. I'm passionate about machine learning, artificial intelligence, and software development. 
-
+I'm Kabir Jaiswal, a Master's student in Computer Engineering at New York University (NYU) 🎓. Currently:  Machine Learning Intern @ BrandGuard AI. 
+Seeing new opportunities as a MLE.
 ## 📚 Education
 
 - Master's in Computer Engineering, New York University, NY, USA (In progress) [GPA 3.83/4]
