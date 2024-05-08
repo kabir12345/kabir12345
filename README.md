@@ -1,11 +1,11 @@
 
 # Hello, there! 👋
 
-I'm Kabir Jaiswal, a Master's student in Computer Engineering at New York University (NYU) 🎓. Currently:  Machine Learning Intern @ BrandGuard AI. 
+I'm Kabir Jaiswal, a Master's student in Computer Engineering at New York University (NYU) 🎓. Currently:  Machine Learning @ BrandGuard AI. 
 Seeking new opportunities as a MLE.
 ## 📚 Education
 
-- Master's in Computer Engineering, New York University, NY, USA (In progress) [GPA 3.83/4]
+- Master's in Computer Engineering, New York University, NY, USA (In progress) [GPA 3.88/4]
 >
 >Relevant Coursework: Machine Learning, Deep Learning Fundamentals, Applied Matrix Theory, Computing System Architecture
 >
@@ -26,17 +26,3 @@ Seeking new opportunities as a MLE.
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/kabir-j-b81212105/) or email me at kabirj@nyu.edu or kabirjaiswal30@gmail.com.
 
 
-<!--
-**kabir12345/kabir12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
